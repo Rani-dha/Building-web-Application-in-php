@@ -7,3 +7,4 @@
 *  [Week 5: PHP Application](https://github.com/Rani-dha/Building-web-application-in-PHP/tree/main/Week%205%20First%20PHP%20Application)
 *  [Week 6: Guessing Game](https://github.com/Rani-dha/Building-web-application-in-PHP/tree/main/Week%206%20Guessing%20Game)
 *  [Week 7: Reversing an MD5 Hash (password cracking)](https://github.com/Rani-dha/Building-web-application-in-PHP/tree/main/Week%207%20Reversing%20an%20MD5%20Hash%20(%20Password%20cracking%20))
+*  [Week 8: Rock Paper Scissors Game](https://github.com/Rani-dha/Building-web-application-in-PHP/tree/main/Week%208%20Rock%20Paper%20Scissors)
