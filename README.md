@@ -12,5 +12,5 @@
 *  [Week 7: Reversing an MD5 Hash (password cracking)](https://github.com/Rani-dha/Building-web-application-in-PHP/tree/main/Week%207%20Reversing%20an%20MD5%20Hash%20(%20Password%20cracking%20))
 *  [Week 8: Rock Paper Scissors Game](https://github.com/Rani-dha/Building-web-application-in-PHP/tree/main/Week%208%20Rock%20Paper%20Scissors)
 
-## Course 2: Introduction to Structured Query Language (SQL)
+## [Course 2: Introduction to Structured Query Language (SQL)](https://github.com/Rani-dha/SQL)
 
